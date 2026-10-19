@@ -36,9 +36,9 @@ metadata:
   name: mysql
   namespace: roboshop
   labels:
-      project: roboshop
-      component: mysql
-      tier: database
+    project: roboshop
+    component: mysql
+    tier: database
 
 spec:
   selector:

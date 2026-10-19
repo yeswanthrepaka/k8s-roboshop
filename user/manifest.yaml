@@ -76,9 +76,9 @@ metadata:
   name: user
   namespace: roboshop
   labels:
-      project: roboshop
-      component: user
-      tier: backend
+    project: roboshop
+    component: user
+    tier: backend
 
 spec:
   selector:

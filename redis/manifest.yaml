@@ -36,9 +36,9 @@ metadata:
   name: redis
   namespace: roboshop
   labels:
-      project: roboshop
-      component: redis
-      tier: database
+    project: roboshop
+    component: redis
+    tier: database
 
 spec:
   selector:

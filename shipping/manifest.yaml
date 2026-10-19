@@ -83,9 +83,9 @@ metadata:
   name: shipping
   namespace: roboshop
   labels:
-        project: roboshop
-        component: shipping
-        tier: backend
+    project: roboshop
+    component: shipping
+    tier: backend
 
 spec:
   selector:

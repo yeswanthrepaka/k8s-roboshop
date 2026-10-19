@@ -76,9 +76,9 @@ metadata:
   name: cart
   namespace: roboshop
   labels:
-      project: roboshop
-      component: cart
-      tier: backend
+    project: roboshop
+    component: cart
+    tier: backend
 
 spec:
   selector:
