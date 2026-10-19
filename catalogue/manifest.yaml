@@ -43,6 +43,7 @@ spec:
       containers:
       - name: catalogue
         image: yeswanthrepaka/catalogue:1.3.0
+        imagePullPolicy: Always
         readinessProbe:
           tcpSocket:
             port: 8080
